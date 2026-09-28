@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/name-typing.svg?v=4" width="100%" alt="Lester Matthew Villalon">
-
-<br/>
+# Lester Matthew Villalon
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=550&lines=%3E+AI+Automation+Engineer;%3E+based+in+Bacolod%2C+Philippines;%3E+building+smart+workflows+%26+scrapers;%3E+available+for+remote+work" alt="Typing subheader" />
 
