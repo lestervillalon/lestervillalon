@@ -89,9 +89,9 @@ Whether it is building custom Python web scrapers to gather market intelligence,
 ## 📈 Activity & Development Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lestervillalon&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0d1117" alt="Lester's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=lestervillalon&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0d1117" alt="Lester's GitHub Stats" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestervillalon&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lestervillalon&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" height="165" />
 </div>
 
 ---
