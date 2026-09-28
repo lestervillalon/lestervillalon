@@ -32,7 +32,7 @@ Whether it is engineering industrial Python web scrapers to extract market intel
 
 | Project | Focus Area | Description | Architecture |
 | :--- | :--- | :--- | :--- |
-| **[Hermes Bot](https://github.com/lestervillalon/hermes-bot)** | Autonomous Agent | Intelligent multi-purpose automation bot for real-time task handling and dispatching. | `Python` `APIs` `Automation` |
+| **[Hermes Bot](https://github.com/lestervillalon/hermes-bot)** | Autonomous Agent | Intelligent multi-purpose automation bot for real-time task handling and dispatching. | `Python` `Railway` `APIs` `Automation` |
 | **[Upwork Scrapy Pipeline](https://github.com/lestervillalon/upwork-python-scrapy-scraper)** | Data Mining | High-throughput data extraction pipeline capturing lead and market opportunities. | `Python` `Scrapy` `ZenRows` |
 | **[OnlineJobs.ph Scraper](https://github.com/lestervillalon/scraper-onlinejobsph)** | Market Intelligence | Automated talent and job market crawler collecting real-time candidate and salary data. | `Python` `Web Scraping` `ETL` |
 | **[WildRift Stats Analytics](https://github.com/lestervillalon/wildrift-stats)** | Analytics & Web | Web-based statistics and performance tracking dashboard for game metrics. | `JavaScript` `Analytics` `APIs` |
@@ -95,6 +95,7 @@ Whether it is engineering industrial Python web scrapers to extract market intel
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
