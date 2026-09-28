@@ -51,38 +51,69 @@ Whether it is engineering industrial Python web scrapers to extract market intel
 
 ## 🛠️ Tools & Tech Stack
 
-### 🤖 AI, LLMs & Model Context Protocol (MCP)
-<img src="https://img.shields.io/badge/Claude%20Code-0D1117?style=flat-square&logo=anthropic&logoColor=00D9FF" alt="Claude Code" />
-<img src="https://img.shields.io/badge/OpenAI%20API-0D1117?style=flat-square&logo=openai&logoColor=00D9FF" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Claude%203.5-0D1117?style=flat-square&logo=anthropic&logoColor=00D9FF" alt="Claude" />
-<img src="https://img.shields.io/badge/Google%20Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=00D9FF" alt="Gemini" />
-<img src="https://img.shields.io/badge/MCP%20Servers-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF" alt="MCP" />
-<img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=flat-square&logo=robotframework&logoColor=00D9FF" alt="AI Agents" />
+### 🤖 AI Models & Assistants
 
-### ⚡ Workflow Orchestration & Business Tools
-<img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=00D9FF" alt="n8n" />
-<img src="https://img.shields.io/badge/Make.com-0D1117?style=flat-square&logo=make&logoColor=00D9FF" alt="Make" />
-<img src="https://img.shields.io/badge/Zapier-0D1117?style=flat-square&logo=zapier&logoColor=00D9FF" alt="Zapier" />
-<img src="https://img.shields.io/badge/GoHighLevel-0D1117?style=flat-square&logo=hubspot&logoColor=00D9FF" alt="GHL" />
-<img src="https://img.shields.io/badge/Airtable-0D1117?style=flat-square&logo=airtable&logoColor=00D9FF" alt="Airtable" />
-<img src="https://img.shields.io/badge/Notion-0D1117?style=flat-square&logo=notion&logoColor=00D9FF" alt="Notion" />
-<img src="https://img.shields.io/badge/Google%20Workspace-0D1117?style=flat-square&logo=google&logoColor=00D9FF" alt="Google Workspace" />
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-111111?style=flat-square)
+![Qwen](https://img.shields.io/badge/Qwen-5B5BD6?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square)
+![Hermes AI](https://img.shields.io/badge/Hermes_AI-7C3AED?style=flat-square)
+![CoCounsel](https://img.shields.io/badge/CoCounsel-1F2937?style=flat-square)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square)
+![Kimi](https://img.shields.io/badge/Kimi-111111?style=flat-square)
+![Manus](https://img.shields.io/badge/Manus-111111?style=flat-square)
 
-### 🐍 Backend, Scraping & APIs
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF" alt="Python" />
-<img src="https://img.shields.io/badge/Scrapy-0D1117?style=flat-square&logo=scrapy&logoColor=00D9FF" alt="Scrapy" />
-<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logo=postman&logoColor=00D9FF" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Webhooks-0D1117?style=flat-square&logo=webhook&logoColor=00D9FF" alt="Webhooks" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL" />
+### 💻 AI Coding & Builders
 
-### 💻 Web Development & Tools
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00D9FF" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00D9FF" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00D9FF" alt="CSS3" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=00D9FF" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00D9FF" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00D9FF" alt="GitHub" />
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=flat-square)
+![Vercel AI](https://img.shields.io/badge/Vercel_AI-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### ⚙️ Automation & APIs
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D28D9?style=flat-square&logo=make&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF9900?style=flat-square)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)
+![Google Sheets API](https://img.shields.io/badge/Google_Sheets_API-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-111111?style=flat-square)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+### 🎨 Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+### 🗄️ Backend & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-EC407A?style=flat-square&logo=scrapy&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 🧩 Product & Design
+
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
 
