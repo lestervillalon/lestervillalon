@@ -6,11 +6,11 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       font-size: 50px;
       font-weight: 700;
-      fill: #38BDF8;
+      fill: #00D9FF;
     }
 
     .cursor {
-      fill: #38BDF8;
+      fill: #00D9FF;
       animation: blink 1s steps(1) infinite;
     }
 

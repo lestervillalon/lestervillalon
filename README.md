@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/name-typing.svg?v=3" width="100%" alt="Lester Matthew Villalon">
+<img src="./assets/name-typing.svg?v=4" width="100%" alt="Lester Matthew Villalon">
 
 <br/>
 
