@@ -8,17 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lester-matthew-villalon-133b923a3/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://www.facebook.com/m0ypsg44" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0D1117?style=flat-square&logo=facebook&logoColor=00D9FF" alt="Facebook" />
-</a>
-&nbsp;
-<a href="mailto:villalonlester24@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email" />
-</a>
+<a href="https://www.linkedin.com/in/lester-matthew-villalon-133b923a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRDlGRiI+PHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02LjQ2IDEwLjl2OC4zN0g5LjJWMTAuOUg2LjQ2TTcuODMgNi40NWExLjY0IDEuNjQgMCAxIDAgMCAzLjI4IDEuNjQgMS42NCAwIDAgMCAwLTMuMjhaIi8+PC9zdmc+&logoColor=00D9FF" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://www.facebook.com/m0ypsg44" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=flat-square&logo=facebook&logoColor=00D9FF" alt="Facebook" /></a>&nbsp;&nbsp;<a href="mailto:villalonlester24@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
 
 <br/><br/>
 
