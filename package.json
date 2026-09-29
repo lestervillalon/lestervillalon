@@ -1,0 +1,9 @@
+{
+  "name": "lester-villalon-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static portfolio website for Lester Matthew Villalon — AI automation, GoHighLevel, web development, medical billing, and auditing.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

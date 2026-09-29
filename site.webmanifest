@@ -1,0 +1,19 @@
+{
+  "name": "Lester Matthew Villalon — AI Automation & Web Development",
+  "short_name": "Lester Villalon",
+  "description": "AI automation specialist, GoHighLevel expert, web developer, medical biller, and auditor helping clinics and agencies streamline operations.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f0f0f0",
+  "theme_color": "#000000",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

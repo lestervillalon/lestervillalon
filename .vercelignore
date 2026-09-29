@@ -1,0 +1,11 @@
+server.js
+package.json
+package-lock.json
+node_modules
+.vercel
+*.md
+GHL.png
+MAIN AVATAR.png
+upwork-icon.webp
+.env
+.env.*

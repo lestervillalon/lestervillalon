@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Web application build preview">
+  <rect width="640" height="400" fill="#F0F0F0"/>
+  <rect x="40" y="36" width="560" height="328" rx="16" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+  <rect x="40" y="36" width="560" height="46" rx="16" fill="#000000"/>
+  <rect x="40" y="66" width="560" height="16" fill="#000000"/>
+  <circle cx="68" cy="59" r="6" fill="#FFFFFF" opacity="0.9"/>
+  <circle cx="90" cy="59" r="6" fill="#A0A0A0"/>
+  <circle cx="112" cy="59" r="6" fill="#505050"/>
+  <rect x="72" y="110" width="200" height="16" rx="8" fill="#000000"/>
+  <rect x="72" y="140" width="300" height="10" rx="5" fill="#A0A0A0"/>
+  <rect x="72" y="160" width="260" height="10" rx="5" fill="#A0A0A0"/>
+  <rect x="72" y="196" width="120" height="34" rx="10" fill="#000000"/>
+  <rect x="204" y="196" width="120" height="34" rx="10" fill="none" stroke="#505050" stroke-width="2"/>
+  <rect x="420" y="110" width="148" height="120" rx="12" fill="#F0F0F0" stroke="#A0A0A0" stroke-width="2"/>
+  <path d="M470 150l30 24-30 24z" fill="#505050"/>
+  <g fill="#505050">
+    <rect x="72" y="268" width="150" height="60" rx="10"/>
+    <rect x="238" y="268" width="150" height="60" rx="10"/>
+    <rect x="404" y="268" width="164" height="60" rx="10"/>
+  </g>
+  <g fill="#F0F0F0">
+    <rect x="90" y="288" width="80" height="9" rx="4.5"/>
+    <rect x="256" y="288" width="80" height="9" rx="4.5"/>
+    <rect x="422" y="288" width="80" height="9" rx="4.5"/>
+  </g>
+</svg>

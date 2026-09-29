@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="GoHighLevel automation funnel dashboard preview">
+  <rect width="640" height="400" fill="#F0F0F0"/>
+  <rect x="40" y="36" width="560" height="328" rx="16" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+  <rect x="40" y="36" width="560" height="52" rx="16" fill="#000000"/>
+  <circle cx="68" cy="62" r="6" fill="#FFFFFF" opacity="0.9"/>
+  <circle cx="90" cy="62" r="6" fill="#A0A0A0"/>
+  <circle cx="112" cy="62" r="6" fill="#505050"/>
+  <rect x="72" y="118" width="150" height="14" rx="7" fill="#505050"/>
+  <rect x="72" y="146" width="210" height="10" rx="5" fill="#A0A0A0"/>
+  <g fill="none" stroke="#505050" stroke-width="3">
+    <path d="M72 300h150l40-70h130l40-70h96"/>
+    <path d="M72 236h150l40 64h130l40 64h96"/>
+  </g>
+  <g fill="#000000">
+    <rect x="72" y="318" width="34" height="26" rx="4"/>
+    <rect x="116" y="308" width="34" height="36" rx="4"/>
+    <rect x="160" y="292" width="34" height="52" rx="4"/>
+    <rect x="204" y="272" width="34" height="72" rx="4"/>
+    <rect x="248" y="288" width="34" height="56" rx="4"/>
+    <rect x="292" y="256" width="34" height="88" rx="4"/>
+  </g>
+  <rect x="380" y="200" width="180" height="120" rx="12" fill="#F0F0F0" stroke="#A0A0A0" stroke-width="2"/>
+  <rect x="400" y="222" width="90" height="10" rx="5" fill="#505050"/>
+  <rect x="400" y="246" width="140" height="8" rx="4" fill="#A0A0A0"/>
+  <rect x="400" y="264" width="120" height="8" rx="4" fill="#A0A0A0"/>
+  <rect x="400" y="290" width="70" height="18" rx="9" fill="#000000"/>
+</svg>
