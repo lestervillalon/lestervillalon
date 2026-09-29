@@ -112,7 +112,16 @@ Whether it is engineering industrial Python web scrapers to extract market intel
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lestervillalon&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestervillalon&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Top languages" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=lestervillalon&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lestervillalon&bg_color=0D1117&color=00D9FF&line=00D9FF&point=c9d1d9&area=true&hide_border=true" alt="Activity graph" width="100%" />
 
 <br/><br/>
 
