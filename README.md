@@ -112,8 +112,12 @@ Whether it is engineering industrial Python web scrapers to extract market intel
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lestervillalon&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestervillalon&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/lestervillalon/lestervillalon/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%" />
+
+<br/>
+
+<img height="165" src="https://raw.githubusercontent.com/lestervillalon/lestervillalon/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img height="165" src="https://raw.githubusercontent.com/lestervillalon/lestervillalon/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages" />
 
 <br/>
 
@@ -121,7 +125,7 @@ Whether it is engineering industrial Python web scrapers to extract market intel
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lestervillalon&bg_color=0D1117&color=00D9FF&line=00D9FF&point=c9d1d9&area=true&hide_border=true" alt="Activity graph" width="100%" />
+<img src="https://raw.githubusercontent.com/lestervillalon/lestervillalon/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
 
 <br/><br/>
 
