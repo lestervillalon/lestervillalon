@@ -112,8 +112,8 @@ Whether it is engineering industrial Python web scrapers to extract market intel
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lestervillalon&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestervillalon&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Top languages" />
+<img height="165" src="https://raw.githubusercontent.com/lestervillalon/lestervillalon/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img height="165" src="https://raw.githubusercontent.com/lestervillalon/lestervillalon/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" />
 
 
 <br/>
