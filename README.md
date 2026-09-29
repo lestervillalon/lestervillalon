@@ -125,15 +125,7 @@ Whether it is engineering industrial Python web scrapers to extract market intel
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/lestervillalon/lestervillalon/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lestervillalon/lestervillalon/output/contribution-grid.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lestervillalon/lestervillalon/output/contribution-grid.svg" />
-  <img src="https://raw.githubusercontent.com/lestervillalon/lestervillalon/output/contribution-grid.svg" alt="Contribution grid snake animation" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/lestervillalon/lestervillalon/output/contribution-grid.svg" alt="Contribution grid snake animation" width="100%" />
 
 </div>
 
