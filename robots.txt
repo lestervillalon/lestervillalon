@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lestervillalon.com/sitemap.xml
+# Block irrelevant files from indexing
+Disallow: /server.js
+Disallow: /.vercel/
+Disallow: /package.json
+
+Sitemap: https://lestervillalon.github.io/lestervillalon/sitemap.xml
