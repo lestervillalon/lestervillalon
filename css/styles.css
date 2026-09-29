@@ -1495,38 +1495,97 @@ a.bento__card:hover {
 
 .project-card {
   display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
+  flex-direction: row;
+  gap: 1rem;
   padding: 1.5rem;
+  transition: transform 0.2s, box-shadow 0.2s;
 }
 
-.project-card__header {
+.project-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.10);
+}
+
+/* Colored icon box */
+.project-card__icon-wrap {
+  flex-shrink: 0;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--icon-color) 18%, transparent);
+  color: var(--icon-color);
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   font-size: 1.5rem;
 }
 
+.project-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+  min-width: 0;
+}
+
+/* Meta row: lang dot + lang name + tags */
+.project-card__meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+/* Colored language dot */
+.lang-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--dot);
+  display: inline-block;
+  flex-shrink: 0;
+}
+
 .project-card__lang {
-  font-size: 0.75rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--text-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-right: 0.25rem;
+}
+
+/* Topic tag pills */
+.project-card__tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.7rem;
   font-weight: 600;
-  padding: 0.2rem 0.6rem;
+  padding: 0.15rem 0.55rem;
   border-radius: 999px;
   background: var(--surface);
   color: var(--text-soft);
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+  border: 1px solid var(--border);
 }
 
 .project-card h3 {
   margin: 0;
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .project-card h3 a {
   color: var(--text);
   text-decoration: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .project-card h3 a:hover {
@@ -1534,14 +1593,14 @@ a.bento__card:hover {
 }
 
 .project-card p {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: var(--text-soft);
-  flex: 1;
   margin: 0;
+  line-height: 1.5;
 }
 
 .project-card .btn {
-  margin-top: auto;
+  margin-top: 0.25rem;
   align-self: flex-start;
 }
 
@@ -1549,9 +1608,9 @@ a.bento__card:hover {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  padding: 0.5rem 1rem;
+  padding: 0.45rem 0.9rem;
   border-radius: 6px;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   font-weight: 600;
   border: 1.5px solid var(--border);
   background: transparent;
@@ -1563,4 +1622,10 @@ a.bento__card:hover {
 .btn--outline:hover {
   background: var(--surface);
   border-color: var(--text);
+}
+
+@media (max-width: 480px) {
+  .project-card {
+    flex-direction: column;
+  }
 }
