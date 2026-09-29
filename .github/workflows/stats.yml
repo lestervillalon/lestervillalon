@@ -23,5 +23,16 @@ jobs:
         with:
           USERNAME: lestervillalon
           BRANCH_NAME: stats
+          AUTO_PUSH: false
           THEME: github_dark
           UTC_OFFSET: 8
+
+      - name: Publish cards to the stats branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan stats-branch
+          git rm -rf --cached . >/dev/null 2>&1 || true
+          git add -f profile-summary-card-output
+          git commit -m "chore: update profile summary cards"
+          git push -f origin HEAD:stats
